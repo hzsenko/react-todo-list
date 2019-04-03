@@ -1,0 +1,12 @@
+.add-item {
+  margin: 10px 0;
+  display: flex;
+
+  &__input {
+    margin-right: 3px;
+  }
+
+  &__button {
+    width: 150px;
+  }
+}
